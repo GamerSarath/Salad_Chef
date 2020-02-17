@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MemoryManager
+  - SplashVideoManager
+  - UIManager
+  - CareerButton
+  - MultiPlayerButton
+  - SettingsButton
+  - ExitButton
+  - SceneManager
+  - GameManager
+  - NextButton
+  - PreviousButton
+  - CharacterHolder
+  - CharacterNameHolder
+  - SpeedStar
+  - AgilityStar
+  - PatienceStar
+  - SpecialMoveText
+  - UnlockAmountText
+  - AssistanceManager
+  - AnimationManager
+  - AssistanceAnimationPanel
+  - TutorialDoneButton
+  - HealthText
+  - SpecialAbilityText
+  - PlayerLevelText
+  - PlayerXpText
+  - PlayerCashText
+  - UnlockButton
+  - unlockDoneButton
+  - PlayerUnlockedPanel
+  - CurrentCharacterNameText
+  - PlayerController
+  - AssistanceText
+  - AssistanceNextButton
+  - CoopManager
+  - PlayerOne
+  - PlayerTwo
+  - Hotel
+  - MultiplayerCanvas
+  - MultiplayerCanvas_HUDPanel
+  - Target
+  - FxTemporaire
+  - MushroomBox
+  - PlayerOneTimePanel
+  - PlayerTwoTimePanel
+  - playerTwoScorePanel
+  - PlayerOneScorePanel
+  - PlayerTwoScorePanel
+  - MatchWinningTag
+  - PlayerOneFinalScore
+  - PlayerTwoFinalScore
+  - CoopFinalResultAnimator
+  - CoopMatchFinalResultPlayAgainButton
+  - CoopMatchFinalResultHomeButton
+  - AddScorePowerUp
+  - ReduceScorePowerDown
+  - AddTimePowerUp
+  - ReduceTimePowerDown
+  - AddChoppingSpeedPowerUp
+  - ReduceChoppingSpeedPowerDown
+  - PowerUpSpawnPoint
+  - Slot1
+  - Slot2
+  - Slot3
+  - Slot4
+  - Slot5
+  - PlayerOneOrderOne
+  - PlayerTwoOrderTwo
+  - PlayerOneOrderTwo
+  - PlayerTwoOrderOne
+  - Slot
+  - Mushroom
+  - Capsicum
+  - Carrot
+  - Tomoto
+  - Nuts
+  - Cucumber
+  - MushroomOrderCOunt_PlayerOne
+  - CucumberOrderCount_PlayerOne
+  - TomotoOrderCount_PlayerOne
+  - CapsicumOrderCount_playerOne
+  - NutsOrderCount_PlayerOne
+  - CarrotOrderCount_PlayerOne
+  - MushroomOrderCount_playerTwo
+  - CucumberOrderCount_PlayerTwo
+  - CarrotOrderCount_PlayerTwo
+  - TomotoOrderCount_PlayerTwo
+  - NutsOrderCount_PlayerTwo
+  - CapsicumOrderCountPlayerTwo
+  - DustBin
+  - ChoppingTable
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer
+    uniqueID: 1379597333
+    locked: 0

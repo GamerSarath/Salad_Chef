@@ -1,0 +1,277 @@
+fileFormatVersion: 2
+guid: 57cf4b5a4197cd948a64924d128820f0
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      74: -203655887218126122
+    second: Idle
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Regina_Body_Diffuse
+    second: {fileID: 2800000, guid: 8ff4e60480e8b1449850653d94ac803e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Regina_Body_Gloss
+    second: {fileID: 2800000, guid: 150363d214e636f4e80bc91ad23d8921, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Regina_Body_Normal
+    second: {fileID: 2800000, guid: 554f699ebd512864c8729c152f321a92, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Regina_Body_Opacity
+    second: {fileID: 2800000, guid: 0ed0b365dd0e3764f859d05d618ec640, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Regina_Body_Specular
+    second: {fileID: 2800000, guid: d513d65505e784d4bb38b2c86bdd5e59, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Regina_Bottom_Diffuse
+    second: {fileID: 2800000, guid: cb08127530c6cd24ab702f0c91357fcf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Regina_Bottom_Gloss
+    second: {fileID: 2800000, guid: 3c49a53a2da9c59418b60f2b5c05b5d5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Regina_Bottom_Normal
+    second: {fileID: 2800000, guid: 6520bb4ca14a59a4e8e3be82ead1f5a1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Regina_Bottom_Opacity
+    second: {fileID: 2800000, guid: fcf2cbdeed26305479d8ff16e77402cc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Regina_Bottom_Specular
+    second: {fileID: 2800000, guid: b65d930ab997da648b892b19d5411642, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Regina_Hair_Diffuse
+    second: {fileID: 2800000, guid: 035fc19fe7473a348b79e0ebd24ec708, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Regina_Hair_Gloss
+    second: {fileID: 2800000, guid: 5324bd7228f15554e8a7dbef20fe22bd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Regina_Hair_Normal
+    second: {fileID: 2800000, guid: 5eb0516163555964fa58aa8436ebf10d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Regina_Hair_Opacity
+    second: {fileID: 2800000, guid: 61a507a6a6118c3478fb2254c20fc4e5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Regina_Hair_Specular
+    second: {fileID: 2800000, guid: 649009753e13ff94690cf02c5819c459, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Regina_Hat_Diffuse
+    second: {fileID: 2800000, guid: c31309e26d289b9458030a66d60df142, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Regina_Hat_Gloss
+    second: {fileID: 2800000, guid: 35834fee5f2fb9f46943a3d2846d54a0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Regina_Hat_Normal
+    second: {fileID: 2800000, guid: 142dff5b0dcf0ef4fb49178fe9bf0cad, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Regina_Hat_Opacity
+    second: {fileID: 2800000, guid: af51d3ec07fbef4418215daf79b3350f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Regina_Hat_Specular
+    second: {fileID: 2800000, guid: 2ae05b5e3e3870a468b58a2ad628075f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Regina_Shoes_Diffuse
+    second: {fileID: 2800000, guid: d49b616dc728217478041b7138237674, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Regina_Shoes_Gloss
+    second: {fileID: 2800000, guid: f64e645a83c60ba489ca898cb6342800, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Regina_Shoes_Normal
+    second: {fileID: 2800000, guid: afc71405507ca064db7fcfe1e953d4f1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Regina_Shoes_Opacity
+    second: {fileID: 2800000, guid: ba1146d4166c8de439b2f83b8d0a1bcf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Regina_Shoes_Specular
+    second: {fileID: 2800000, guid: e78e5483d0af6cc4d85fab6e431f3b28, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Regina_Top_Diffuse
+    second: {fileID: 2800000, guid: 6af84b0e90ca32146adc2dafc03643b2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Regina_Top_Gloss
+    second: {fileID: 2800000, guid: 110e482ed909be244b5fea566e11d8bf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Regina_Top_Normal
+    second: {fileID: 2800000, guid: b4a648d6c3322e0439e0feb1fff37676, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Regina_Top_Opacity
+    second: {fileID: 2800000, guid: d72bfacf0c6cb43429d933983b31ebdc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Regina_Top_Specular
+    second: {fileID: 2800000, guid: dc09df521278bf64c87f41e410ea6fe5, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: mixamo.com
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 997
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

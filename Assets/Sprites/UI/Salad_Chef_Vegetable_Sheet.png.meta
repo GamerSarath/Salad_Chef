@@ -1,0 +1,655 @@
+fileFormatVersion: 2
+guid: 55078ae95a104c4439b8f0467568532a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3233955451300462032
+    second: Salad_Chef_Vegetable_Sheet_0
+  - first:
+      213: -6759217979050025811
+    second: Salad_Chef_Vegetable_Sheet_1
+  - first:
+      213: -4047751893635235764
+    second: Salad_Chef_Vegetable_Sheet_2
+  - first:
+      213: 581600272631347110
+    second: Salad_Chef_Vegetable_Sheet_3
+  - first:
+      213: -6316276198020105027
+    second: Salad_Chef_Vegetable_Sheet_4
+  - first:
+      213: 3676102151390336670
+    second: Salad_Chef_Vegetable_Sheet_5
+  - first:
+      213: 1965137636930369330
+    second: Salad_Chef_Vegetable_Sheet_6
+  - first:
+      213: 4515116846250143229
+    second: Salad_Chef_Vegetable_Sheet_7
+  - first:
+      213: 7656498022572106994
+    second: Salad_Chef_Vegetable_Sheet_8
+  - first:
+      213: -8725482299351961426
+    second: Salad_Chef_Vegetable_Sheet_9
+  - first:
+      213: -5520591085327789050
+    second: Salad_Chef_Vegetable_Sheet_10
+  - first:
+      213: -7341941855884061041
+    second: Salad_Chef_Vegetable_Sheet_11
+  - first:
+      213: -3955942487445003524
+    second: Salad_Chef_Vegetable_Sheet_12
+  - first:
+      213: 3312163734498820946
+    second: Salad_Chef_Vegetable_Sheet_13
+  - first:
+      213: 4990478414529075739
+    second: Salad_Chef_Vegetable_Sheet_14
+  - first:
+      213: -2394595209770313786
+    second: Salad_Chef_Vegetable_Sheet_15
+  - first:
+      213: 3983917255366659235
+    second: Salad_Chef_Vegetable_Sheet_16
+  - first:
+      213: 4540504074201041254
+    second: Salad_Chef_Vegetable_Sheet_17
+  - first:
+      213: -3012918971660585677
+    second: Salad_Chef_Vegetable_Sheet_18
+  - first:
+      213: 9147613375880197641
+    second: Salad_Chef_Vegetable_Sheet_19
+  - first:
+      213: -5231473497671454829
+    second: Salad_Chef_Vegetable_Sheet_20
+  - first:
+      213: 3606105090146765101
+    second: Salad_Chef_Vegetable_Sheet_21
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Salad_Chef_Vegetable_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 815
+        width: 92
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca8e404873284c49b924f20a7bd7296
+      internalID: 3233955451300462032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salad_Chef_Vegetable_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 839
+        width: 214
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fb6b440b1767e4490994d1a4b63056
+      internalID: -6759217979050025811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salad_Chef_Vegetable_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 817
+        width: 107
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c294b4819363ac4f94707f86f2fac8a
+      internalID: -4047751893635235764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salad_Chef_Vegetable_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 813
+        width: 138
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c53b11341baa8449ef488cdbda152b
+      internalID: 581600272631347110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salad_Chef_Vegetable_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 828
+        width: 122
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289c83b2524c8e94a8c424dbe02507fa
+      internalID: -6316276198020105027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salad_Chef_Vegetable_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 790
+        width: 63
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c186880814bc64e9f8bcb33597c1d3
+      internalID: 3676102151390336670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salad_Chef_Vegetable_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 811
+        width: 122
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e3a400a4903874896616188f7c69cb
+      internalID: 1965137636930369330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salad_Chef_Vegetable_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 477
+        width: 151
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce6c24c1cfc7034e8608debcae32480
+      internalID: 4515116846250143229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salad_Chef_Vegetable_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 504
+        width: 138
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49330553848437e49b5adfc7fd6b47eb
+      internalID: 7656498022572106994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salad_Chef_Vegetable_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 524
+        width: 111
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b345df4d97e7e9c4bbb73bce69f63779
+      internalID: -8725482299351961426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salad_Chef_Vegetable_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 537
+        width: 84
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93750a36a039f7943a39e862f3abc7bb
+      internalID: -5520591085327789050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salad_Chef_Vegetable_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 513
+        width: 204
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca5289c8cd653e4981745461cdb973d
+      internalID: -7341941855884061041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salad_Chef_Vegetable_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 498
+        width: 168
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470a5e6425c2a0e40a792f00834cca5e
+      internalID: -3955942487445003524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salad_Chef_Vegetable_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 443
+        width: 68
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f604fa36df4a70a46b8606033a4cb50e
+      internalID: 3312163734498820946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salad_Chef_Vegetable_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 503
+        width: 110
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bd9769f5b5c1a40aa03cb540af449b
+      internalID: 4990478414529075739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salad_Chef_Vegetable_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 199
+        width: 192
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb311fe31d96a244bb4b19b163f59ba
+      internalID: -2394595209770313786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salad_Chef_Vegetable_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 135
+        width: 119
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b897664c4d73648aaf878740598413
+      internalID: 3983917255366659235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salad_Chef_Vegetable_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 160
+        width: 138
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549e053bdd13c49489ef040a68d8ab26
+      internalID: 4540504074201041254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salad_Chef_Vegetable_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 105
+        width: 143
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4480075ed1584a2498c1a671566095ed
+      internalID: -3012918971660585677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salad_Chef_Vegetable_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 128
+        width: 160
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275b3e216d121ca4ab99c4269e9e9bd3
+      internalID: 9147613375880197641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salad_Chef_Vegetable_Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 145
+        width: 76
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902ac94d2ac23de4e97a6801052ad18c
+      internalID: -5231473497671454829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salad_Chef_Vegetable_Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 119
+        width: 106
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689867c516463dd4d8b97bee73963ef7
+      internalID: 3606105090146765101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
